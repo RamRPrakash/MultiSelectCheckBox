@@ -1,2 +1,0 @@
-# MultiSelectCheckBox
-Created with CodeSandbox
